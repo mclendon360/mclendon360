@@ -1,0 +1,7 @@
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```git remote add origin https://github.com/mclendon360/mclendon360.git
+git branch -M main
+git push -u origin main
